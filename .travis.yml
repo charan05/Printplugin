@@ -20,7 +20,6 @@ deploy:
   - provider: wordpress-plugin
     on:
       php: 5.5.9
-      tags: true
       repo: Printplugin
     username: ch12jan1998@gmail.com
     password: Junkfoodnight100@
